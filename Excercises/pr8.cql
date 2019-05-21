@@ -1,0 +1,1 @@
+x1, x2, x3, x4, x5 apply R(x1, x2) and R(x2, x3) and R(x3, x4) and R(x4, x5) and x1 = x5;
